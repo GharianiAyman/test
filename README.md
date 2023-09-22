@@ -15,7 +15,11 @@ git clone https://github.com/GharianiAyman/test.git
 
 * Execute this command : 
 
-``` python -m venv env ``` 
+``` 
+
+python -m venv env 
+
+``` 
 * install requirements by executing this command : 
 
 ``` 
